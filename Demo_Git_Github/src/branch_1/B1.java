@@ -14,7 +14,8 @@ public class B1 {
 		 * 
 		 * tick configure upstream for push and pull, select Merge
 		 * 
-		 * 
+		 * I have merged this branch in the main branch now
+		 * if u r seeing this that means its aready merged
 		 * 
 		 * */
 		
